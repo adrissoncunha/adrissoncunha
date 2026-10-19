@@ -10,7 +10,7 @@ Senior Software Engineer with deep expertise in scalable backend architectures, 
 - **[OrbiTech GraphAudit Enterprise](https://adrissoncunha.github.io/orbitech-graph-audit/)**  
   *Air-gapped Natural Language to Cypher (NL2Cypher) compliance and fraud detection engine. Features deterministic AST regex sanitation, zero data leakage with local Ollama Llama 3 8B, and asynchronous Neo4j graph traversal.*
 
-- **[OrbiTech Fintech & High-Concurrency Security Suite](./orbitech-fintech-security-suite)**  
+- **[OrbiTech Fintech & High-Concurrency Security Suite](https://adrissoncunha.github.io/orbitech-fintech-security-suite)**  
   *Production-tested modules for high-frequency Web3/fintech platforms (500+ active users). Features multi-oracle price feeds with automatic failover, reverse-lookup zero-trust webhook verifications, and behavioral sub-second anti-automation/shadowbanning.*
 
 - **[OrbiZone Cloud Infrastructure Broker](https://adrissoncunha.github.io/orbizone-cloud-broker)**  
