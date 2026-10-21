@@ -24,3 +24,4 @@ Senior Software Engineer with deep expertise in scalable backend architectures, 
 - **Databases & Storage:** Neo4j (Graph DB / Cypher), MongoDB, SQLite (WAL mode), SQL Server
 - **Security & Systems:** AES-256-GCM, Zero-Trust Webhook Auditing, Cloudflare WAF / IP Whitelisting, Linux (Ubuntu/Debian) System Administration, SSH Automation
 - **AI & Data Ops:** Ollama (Llama 3 Local Inference), Regex AST Compilers, High-Availability Fallback Oracles
+- **Network & Operational Security:** SOCKS5/Proxy Tunneling, Egress Traffic Isolation, OPSEC Hardening, Zero-Trust Architecture, Network Protocol Analysis (TCP/HTTP)
